@@ -1,11 +1,11 @@
-package com.coding.countries.Repositories;
+package com.RezaAk.web.countries.Repositories;
 
 import java.util.List;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 
-import com.coding.countries.Models.Country;
+import com.RezaAk.web.countries.Models.Country;
 
 public interface CountryRepository extends CrudRepository<Country, Long> {
 

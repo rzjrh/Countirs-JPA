@@ -1,11 +1,11 @@
-package com.coding.countries.Repositories;
+package com.RezaAk.web.countries.Repositories;
 
 import java.util.List;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 
-import com.coding.countries.Models.Language;
+import com.RezaAk.web.countries.Models.Language;
 
 public interface LanguageRepository extends CrudRepository<Language,Long>{
 	

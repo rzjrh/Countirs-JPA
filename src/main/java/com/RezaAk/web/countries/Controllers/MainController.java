@@ -1,12 +1,12 @@
-package com.coding.countries.Controllers;
+package com.RezaAk.web.countries.Controllers;
 
 import java.util.Collections;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.coding.countries.Models.Country;
-import com.coding.countries.Services.MainService;
+import com.RezaAk.web.countries.Models.Country;
+import com.RezaAk.web.countries.Services.MainService;
 
 @Controller
 public class MainController {

@@ -1,4 +1,4 @@
-package com.coding.countries;
+package com.RezaAk.web.countries;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

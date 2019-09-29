@@ -1,4 +1,4 @@
-package com.coding.countries.Models;
+package com.RezaAk.web.countries.Models;
 
 import java.util.List;
 
